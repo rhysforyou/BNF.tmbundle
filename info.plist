@@ -7,7 +7,9 @@
 	<key>contactName</key>
 	<string>Rhys Powell</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>This bundle adds support for Backus-Naur Form syntax grammars. It also adds a few handy snippets for writing out syntax rules.
+
+BNF serves as a formal specification of a language's syntax that tools such as CoreParse can use to construct parsers.</string>
 	<key>name</key>
 	<string>BNF</string>
 	<key>uuid</key>
