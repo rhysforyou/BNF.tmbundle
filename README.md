@@ -14,11 +14,11 @@ BNF serves as a formal specification of a language's syntax that tools such as [
 
 1.  Create a directory for user bundles if one doesn't already exist
 
-        mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+        mkdir -p ~/Library/Application\ Support/Avian/Bundles
     
 2.  Change into that directory
 
-        cd ~/Library/Application\ Support/TextMate/Bundles
+        cd ~/Library/Application\ Support/Avian/Bundles
         
 3.  Clone thie repository into your bundle directory
 
