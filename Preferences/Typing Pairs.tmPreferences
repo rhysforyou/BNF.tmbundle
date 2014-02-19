@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Typing Pairs</string>
 	<key>scope</key>
-	<string>source.bnf</string>
+	<string>text.bnf</string>
 	<key>settings</key>
 	<dict>
 		<key>smartTypingPairs</key>
