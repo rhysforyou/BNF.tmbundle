@@ -52,9 +52,35 @@
 		<key>rule-name</key>
 		<dict>
 			<key>begin</key>
-			<string>&lt;</string>
+			<string>(?:(\w+)(\@))?(&lt;)</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>variable.rule-tag.core-parse.bnf</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.tag.core-parse.bnf</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.rule-name.start.bnf</string>
+				</dict>
+			</dict>
 			<key>end</key>
 			<string>&gt;</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.rule-name.end.bnf</string>
+				</dict>
+			</dict>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -81,7 +107,7 @@
 			<key>end</key>
 			<string>'</string>
 			<key>name</key>
-			<string>string.quoted.single.c</string>
+			<string>string.quoted.single.bnf</string>
 		</dict>
 	</dict>
 	<key>scope</key>
