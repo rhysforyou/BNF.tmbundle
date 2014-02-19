@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|ruleName|} ::= ${2|rule|} | $2 &lt;$1&gt;;</string>
+	<key>name</key>
+	<string>Recursive Rule</string>
+	<key>tabTrigger</key>
+	<string>rec</string>
+	<key>uuid</key>
+	<string>43AD7163-6E1F-4D87-90EC-DA8960383702</string>
+</dict>
+</plist>
