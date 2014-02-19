@@ -22,4 +22,4 @@ This bundle adds support for [Backus-Naur Form](http://en.wikipedia.org/wiki/Bac
 
 ## Credits
 
-[Rhys Powell (@rpowelll)](https://github.com/rpowelll) - creator and current maintainer
+[Rhys Powell (rpowelll)](https://github.com/rpowelll) - creator and current maintainer
