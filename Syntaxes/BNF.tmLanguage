@@ -87,7 +87,7 @@
 	<key>scope</key>
 	<string>text.bnf</string>
 	<key>scopeName</key>
-	<string>source.untitled</string>
+	<string>text.bnf</string>
 	<key>uuid</key>
 	<string>EC7D7A20-A4B3-453B-83AC-F71D8960ED01</string>
 </dict>
