@@ -4,7 +4,7 @@ This bundle adds support for [Backus-Naur Form](http://en.wikipedia.org/wiki/Bac
 
 BNF serves as a formal specification of a language's syntax that tools such as [CoreParse][] can use to construct parsers.
 
-[CoreParse](https://github.com/beelsebob/CoreParse)
+[CoreParse]: https://github.com/beelsebob/CoreParse
 
 ## Installing
 
