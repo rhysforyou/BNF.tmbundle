@@ -2,6 +2,10 @@
 
 This bundle adds support for [Backus-Naur Form](http://en.wikipedia.org/wiki/Backus–Naur_Form) syntax grammars. It also adds a few handy snippets for writing out syntax rules.
 
+BNF serves as a formal specification of a language's syntax that tools such as [CoreParse][] can use to construct parsers.
+
+[CoreParse](https://github.com/beelsebob/CoreParse)
+
 ## Installing
 
 ### TextMate 2
